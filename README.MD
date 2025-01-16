@@ -168,8 +168,19 @@ Podcast banner, male podcaster, engaging expression, microphone in hand, deep-fo
 ```
 
 Output:
-Imagem:
+<p align="center">
+<img 
+    src="./assets/openart-image_Ql5AY2tJ_1736977408114_raw.png"
+    width="600"
+/>
+</p>
 
+<p align="center">
+<img 
+    src="./assets/varios.png"
+    width="900"
+/>
+</p>
 
 ## 🛠️ Instruções de execução
 
