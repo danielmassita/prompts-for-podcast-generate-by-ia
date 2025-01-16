@@ -52,16 +52,6 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ### ChatGPT - Prompts
 ```markdown
-
-```
-
-### ElevenLab - Prompts
-```markdown
-
-```
-
-### OpenArt - Prompts
-```markdown
 Você é um roteirista de podcast, e vamos criar um podcast de finanças, focado em educação financeira, e eu gostaria de uma ajuda sua para criar 5 sugestões
 de nomes criativos para um podcast de finanças feito por bancários da Caixa Econômica Federal, e que tenha algum trocadilho nerd no nome
 
@@ -78,7 +68,6 @@ O podcast vai falar sobre dicas e novidades sobre o mundo das finanças, open fi
 - Não quero que o título contenha palavras em inglês
 - Não utilize a palavra banco no nome nem qualquer variação dela
 ```
-
 Output:
 ```markdown
 Aqui estão 5 sugestões criativas para o nome do podcast:  
@@ -101,6 +90,7 @@ Aqui estão 5 sugestões criativas para o nome do podcast:
 Se precisar de ajustes ou quiser mais opções, é só avisar!
 ```
 
+Input:
 ```markdown
 Episódio de Podcast
 
@@ -129,7 +119,7 @@ o formato do roteiro deve ser
 - Não ultrapasse 5 minutos de duração
 ```
 
-Output: 
+Output:
 ```markdown
 **Roteiro do Podcast – Caixa dos Anéis: O poder do conhecimento financeiro na sua mão**  
 
@@ -162,6 +152,29 @@ E aí, o que você achou das nossas curiosidades de hoje? O conhecimento finance
 Lembre-se: a Caixa tem uma história de luta, desde o financiamento do fim da escravidão até o penhor, que deu autonomia para muitas mulheres em um tempo em que elas não tinham direitos. Vamos honrar essa história usando o poder do conhecimento para construir um futuro mais justo.  
 
 Eu sou Daniel e esse foi o podcast *Caixa dos Anéis* dessa semana. Até a próxima!
+```
+
+### ElevenLab - Prompts
+```markdown
+Output do ChatGPT
+```
+Output:
+> CaixaDosAneis.mp3
+
+
+### OpenArt - Prompts
+```markdown
+```
+
+Output:
+```markdown
+```
+
+```markdown
+```
+
+Output: 
+```markdown
 ```
 
 
