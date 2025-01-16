@@ -159,23 +159,16 @@ Eu sou Daniel e esse foi o podcast *Caixa dos Anéis* dessa semana. Até a próx
 Output do ChatGPT
 ```
 Output:
-> CaixaDosAneis.mp3
+> [CaixaDosAneis.mp3](https://github.com/danielmassita/prompts-for-podcast-generate-by-ia/blob/main/output/ElevenLabs_2025-01-15T21_22_05_Rafael%20Valente%20-%20Brazilian%20Professional%20Narrator_pvc_s32_sb75_se50_m2.mp3)
 
 
 ### OpenArt - Prompts
 ```markdown
+Podcast banner, male podcaster, engaging expression, microphone in hand, deep-focus lighting, modern, sleek design, banking elements in background, financial graphs, safe vault visuals, high-quality vector art, vibrant colors, educational theme, professional atmosphere, oversized title area, inviting ambiance, detailed textures, eye-catching layout. Must have text: "Podcast - Caixa dos Anéis" as title and "Daniel - Economiário" as subtitle.
 ```
 
 Output:
-```markdown
-```
-
-```markdown
-```
-
-Output: 
-```markdown
-```
+Imagem:
 
 
 ## 🛠️ Instruções de execução
