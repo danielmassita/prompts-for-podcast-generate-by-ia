@@ -197,22 +197,22 @@ Utilizei os prompts dentro do item anterior, fornecido na parte de `Materiais`, 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/111195175?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspDaniel Massita Tonolli<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/danielmassita">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="https://www.linkedin.com/in/daniel-massita-tonolli/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
+        href="https://www.instagram.com/dmt_ocean_ambassador/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
@@ -222,4 +222,4 @@ Utilizei os prompts dentro do item anterior, fornecido na parte de `Materiais`, 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Daniel Massita Tonolli](https://github.com/danielmassita) - aluno do Felipe Aguiar! ;) 
